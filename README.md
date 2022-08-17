@@ -108,4 +108,4 @@ http://localhost:8880/customers/
 ```
 
 - PPT for more details
-[Food app api Project.pdf](https://github.com/GautamViki/OnlineFoodPlaza/blob/master/OnlineFoodPlaza.pdf)
+[Food app api Project.pdf](https://github.com/itsme-brijeshrai/OnlineFoodPlaza/blob/master/OnlineFoodPlaza.pdf)
